@@ -11,11 +11,12 @@ REST API with NodeJs, Typescript, Express.js and Sequelize with Sqlite3 |CRUD RE
 }
 
 # Main Route:
-http://localhost:9000/api/v1
+localhost:9000/api/v1
 
 # Endpoints:
 
 GET Cats: 
+
 http://localhost:9000/api/v1/cats
 
 ![image](https://user-images.githubusercontent.com/33595080/183405284-a64f786f-85df-4c7a-bd2b-c749d735df46.png)
